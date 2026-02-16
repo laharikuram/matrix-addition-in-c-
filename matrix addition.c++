@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main()
-{int rows,cols,a[10][10],b[10][10],sum[10][10]=0,i,j;
+{int rows,cols,a[10][10],b[10][10],sum[10][10],i,j;
 cout<<"enter no of rows and cols";
 cin>>rows>>cols;
 
